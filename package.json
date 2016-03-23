@@ -1,0 +1,25 @@
+{
+  "name": "npm_test_mod",
+  "version": "1.0.0",
+  "description": "A test for creating NPM modules",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qSam/NPMModuleTest.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "qSam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qSam/NPMModuleTest/issues"
+  },
+  "homepage": "https://github.com/qSam/NPMModuleTest#readme",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  }
+}
